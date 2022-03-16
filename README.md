@@ -2,19 +2,19 @@
 CURSO DE UDEMY: Desarrolla una App como Twitter usando Golang, React y MongoDB.
 En este curso vas a aprender a crear una aplicación web de como Twitter donde tendremos las siguientes caracteristicas.
 
-Perfil de usuario
+* Perfil de usuario
 Podremos ver nuestro propio perfil donde tendremos datos del usuario, avatar, bañera y un los tweets del usuario y podremos visitar el perfil de otros usuarios, pero solo se podrá editar el perfil de usuario de uno mismo.
 
-Sistema de Followers
+* Sistema de Followers
 Podremos seguir Y dejar de seguir a otros usuarios que estén registrados en la aplicación y tendremos una lista de usuarios para ver a quien estamos siguiendo en todo momento.
 
-Sistema de Tweets
+* Sistema de Tweets
 Podremos mandar tweets en cualquier momento y desde cualquier página de nuestra aplicación y cuando visitemos el perfil de otro usuario podremos ver todos sus tweets.
 
-Buscador de usuarios
+* Buscador de usuarios
 Podremos buscar usuarios por su nombre y filtrar la búsqueda entre usuarios que no estamos siguiendo o usuarios que estamos siguiendo.
 
-Feed de Tweets
+* Feed de Tweets
 Tendremos una pagina donde podremos ver los últimos tweets que han enviado los usuarios que estamos siguiendo.
 
 
